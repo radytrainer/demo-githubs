@@ -7,3 +7,4 @@ dictionary = {
 
 for key in dictionary:
     print(key)
+    print(dictionary[key])
